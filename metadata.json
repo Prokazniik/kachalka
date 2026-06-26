@@ -1,0 +1,6 @@
+{
+  "name": "Качалка",
+  "description": "Приложение для тренера для быстрого отслеживания прогресса спортсменов (Петя, Рома) с ведением истории, графиков и структурированием данных в формате Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
